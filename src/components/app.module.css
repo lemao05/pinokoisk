@@ -1,0 +1,5 @@
+.filmItem {
+  @apply flex flex-col bg-white/70 py-4 rounded-xl shadow max-w-72 
+  px-8 max-sm:p-4 max-sm:col-span-full max-sm:max-w-full max-sm:h-52 
+  max-sm:flex-row max-sm:rounded-none justify-start;
+}
